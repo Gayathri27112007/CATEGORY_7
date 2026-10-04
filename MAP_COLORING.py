@@ -63,3 +63,12 @@ if map_coloring(states, 0):
 
 else:
     print("No solution exists.")
+
+
+*output*
+Map Coloring using CSP
+----------------------
+A -> Red
+B -> Green
+C -> Blue
+D -> Red
